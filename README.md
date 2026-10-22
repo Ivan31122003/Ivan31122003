@@ -3,7 +3,7 @@
 ### :fire: About Me:
 - :man_technologist: I'm a Frontend Developer (Vue 3, Nuxt, TypeScript)
 - :briefcase: Currently working at **ООО "Альфа-Интегратор-Инфоэнерго"** (Saint Petersburg)
-- :mortar_board: Studying at **Peter the Great St. Petersburg Polytechnic University** (Software Engineering, 2026)
+- :mortar_board: Bachelor's degree in **Software Engineering** from **Peter the Great St. Petersburg Polytechnic University** (2026)
 - :mailbox: How to reach me: <a href="https://t.me/shestiv"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/></a>
 - :mag: My own website: [*https://shestiv.tech*](https://shestiv.tech)
 - :round_pushpin: Based in Saint Petersburg, Russia
