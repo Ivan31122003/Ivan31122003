@@ -26,8 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pinia/pinia-original.svg" title="Pinia" alt="Pinia" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuex/vuex-original.svg" title="Vuex" alt="Vuex" height="50"/>&nbsp;
 </div>
 
 ---
