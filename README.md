@@ -35,12 +35,3 @@
 ### :trophy: My Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan31122003&layout=compact&theme=dark&border_color=404040&bg_color=101010)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vano_31?theme=dark&font=Noto%20Sans)
-
----
-
-### :rocket: Key Achievements:
-- **Performance Optimization**: Reduced table rendering response time from **300ms to 40ms** while scrolling.
-- **UI Library**: Designed and developed a complex table component (custom toolbar, flexible column settings) covering **100% of business needs**.
-- **Virtual Scroll**: Implemented custom virtual scrolling with lazy loading for tables with **1M+ records**.
-- **Testing**: Introduced unit testing (Vitest) for key modules, reducing production bugs by **40%**.
-- **Documentation**: Set up component documentation in Storybook, reducing team support requests by **70%**.
