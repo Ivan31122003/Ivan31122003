@@ -30,4 +30,3 @@
 
 ### :trophy: My Statistics:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vano_31?theme=dark&font=Noto%20Sans)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan31122003&layout=compact&theme=dark&border_color=404040&bg_color=101010)](https://github.com/anuraghazra/github-readme-stats)
